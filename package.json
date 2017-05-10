@@ -1,0 +1,44 @@
+{
+  "name": "express-request-redirect",
+  "version": "1.0.0",
+  "description": "Easily configure request redirection for Express 4",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "lint": "eslint --ext js .",
+    "test-cov": "istanbul cover -x '*.spec.js' jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamespegg/express-request-redirect.git"
+  },
+  "keywords": [
+    "redirect",
+    "express",
+    "middleware",
+    "rewrite",
+    "301"
+  ],
+  "author": "James Pegg <jamescpegg@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jamespegg/express-request-redirect/issues"
+  },
+  "homepage": "https://github.com/jamespegg/express-request-redirect#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "js-yaml": "^3.8.4"
+  }
+}
