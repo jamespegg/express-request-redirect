@@ -9,7 +9,8 @@
   "scripts": {
     "test": "jasmine",
     "lint": "eslint --ext js .",
-    "test-cov": "istanbul cover -x '*.spec.js' jasmine"
+    "test-cov": "istanbul cover jasmine",
+    "test-travis": "istanbul cover jasmine --report lcovonly"
   },
   "repository": {
     "type": "git",
