@@ -1,2 +1,2 @@
-# express-request-redirect
+# Express Request Redirect [![Build Status](https://travis-ci.org/jamespegg/express-request-redirect.svg?branch=master)](https://travis-ci.org/jamespegg/express-request-redirect) [![Coverage Status](https://coveralls.io/repos/github/jamespegg/express-request-redirect/badge.svg?branch=master)](https://coveralls.io/github/jamespegg/express-request-redirect?branch=master)
 Easily configure request redirection for Express 4
