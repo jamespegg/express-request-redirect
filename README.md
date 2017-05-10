@@ -1,4 +1,4 @@
-# Express Request Redirect [![Build Status](https://travis-ci.org/jamespegg/express-request-redirect.svg?branch=master)](https://travis-ci.org/jamespegg/express-request-redirect) [![Coverage Status](https://coveralls.io/repos/github/jamespegg/express-request-redirect/badge.svg?branch=master)](https://coveralls.io/github/jamespegg/express-request-redirect?branch=master)
+# Express Request Redirect [![Build Status](https://travis-ci.org/jamespegg/express-request-redirect.svg?branch=master)](https://travis-ci.org/jamespegg/express-request-redirect) [![Coverage Status](https://coveralls.io/repos/github/jamespegg/express-request-redirect/badge.svg?branch=master)](https://coveralls.io/github/jamespegg/express-request-redirect?branch=master) [![npm version](https://badge.fury.io/js/express-request-redirect.svg)](https://badge.fury.io/js/express-request-redirect)
 Easy URL redirect configuration in Express 4.
 
 ## Installation
